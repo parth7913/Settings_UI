@@ -1,6 +1,6 @@
 # Settings
 
-A new Flutter project.
+Settings UI.
 
 ## Getting Started
 
