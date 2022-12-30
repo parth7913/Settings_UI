@@ -1,4 +1,4 @@
-# outcaster
+# Settings
 
 A new Flutter project.
 
